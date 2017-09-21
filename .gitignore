@@ -1,0 +1,5 @@
+/build
+/app/.externalNativeBuild
+/myapplication
+/.gradle
+/gradle
